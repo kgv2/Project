@@ -1,0 +1,8 @@
+{
+	"timestamp":"2023-10-13T17:59:03",
+	"city":"Wellesley",
+	"est_lat":"42.3018",
+	"est_lon":"-71.2857",
+	"reason":"sentry_aware_object_detection",
+	"camera":"5"
+}
